@@ -24,6 +24,3 @@ def calculateBill(prices, itemsBought):
     return cost
 
 print(calculateBill(samplePrices, sampleItemsBought))
-    
-
-    
